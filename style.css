@@ -1,0 +1,34 @@
+body{
+ background-color: black;
+ color: orange;
+}
+.logo{
+font-size: 85px;
+font-family: Arial Black;
+}
+.minilogo{
+font-family: Arial Black;
+}
+.menu {
+    width: 1560px;
+    margin: 0 auto;
+    background: #242424;
+}
+.HLBOX{
+ width: 14%;
+ height: 32%;
+ display: inline-block;
+}
+.HLBOX :hover{
+ border: 2px solid white
+}
+.title{
+ color: gray;
+}
+a{
+ color: yellow;
+}
+hr{
+ color: #242424;
+ height: 15px;
+}
